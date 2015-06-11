@@ -1,3 +1,3 @@
 # d3Work
 
-Strange and less than exhilarating animation experiments with d3
+Strange and less than exhilarating data animation experiments with d3
